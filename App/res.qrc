@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>doc/add_plus.png</file>
+        <file>doc/edit_olowek.png</file>
+        <file>doc/remove_minus.png</file>
+        <file>doc/open.png</file>
+    </qresource>
+</RCC>

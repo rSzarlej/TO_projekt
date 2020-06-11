@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TestFiles/image1.png</file>
+        <file>TestFiles/model.OBJ</file>
+        <file>TestFiles/tekstowy.txt</file>
+        <file>TestFiles/test.xml</file>
+    </qresource>
+</RCC>
